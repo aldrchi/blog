@@ -38,4 +38,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-
+# RedCloth is a Ruby library for converting Textile into HTML.
+gem 'RedCloth'
+gem 'redcarpet', '~> 2.1.1'
+gem 'nokogiri'
